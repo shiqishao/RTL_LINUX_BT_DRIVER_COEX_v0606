@@ -1,0 +1,7 @@
+==== BT USB CHIPS ====
+rtl8852au_fw		 BTCOEX_20210331-0606	FW_VER= 0xd8a877d0
+ 
+==== BT UART CHIPS ====
+rtl8852as_fw		 BTCOEX_20210331-0606	FW_VER= 0xd4a877cf
+ 
+==== BT SDIO CHIPS ====
